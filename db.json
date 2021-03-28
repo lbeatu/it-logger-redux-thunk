@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Fixed hard drive on workstation 002",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-05-31T16:18:04.245Z"
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T15:46:48.690Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "Workstation 026 is up and running",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T19:57:35.544Z"
+    },
+    {
+      "message": "grgerg",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2021-01-24T02:55:20.715Z",
+      "id": 7
+    },
+    {
+      "message": "Learning Async/ Await",
+      "attention": false,
+      "tech": "Sinem Aliye Battal",
+      "date": "2021-02-06T12:38:27.348Z",
+      "id": 8
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Sinem Aliye",
+      "lastName": "Battal",
+      "date": "2021-02-06T12:38:07.175Z",
+      "id": 4
+    }
+  ]
+}
